@@ -11,10 +11,12 @@ Tahapan Proses yang Dilakukan
 
 Proses penyelesaian analisis data ini dikerjakan secara berurutan dan dibagi ke dalam empat tahapan utama, yaitu:
 A. Pengumpulan Data Data yang digunakan dalam analisis ini diambil dari dataset publik di Kaggle yang berjudul CYBERPUNK 2077 STEAM Chart - Players Over The Year.csv. Dataset ini berisi rekaman riwayat bulan, tahun, dan angka pemain tertinggi bulanan di platform Steam.
+
 B. Persiapan dan Pembersihan Data Sebelum divisualisasikan, data mentah harus diolah terlebih dahulu menggunakan library Pandas pada bahasa pemrograman Python. Beberapa penyesuaian yang dilakukan meliputi:
 •	Menghilangkan tanda baca koma (,) pada kolom jumlah pemain dan mengubah tipe datanya dari teks menjadi angka agar bisa dihitung.
 •	Menyamakan format penulisan waktu menjadi standar penanggalan yang baku (datetime).
 •	Menambahkan kolom spesifik untuk mengekstrak data 'Tahun' dan 'Bulan' secara terpisah guna mempermudah proses pembuatan grafik korelasi dan komposisi.
+
 C. Analisis Data Eksploratif (EDA) Tahapan eksplorasi data divisualisasikan menggunakan empat metode utama melalui library Matplotlib dan Seaborn, yang mencakup:
 •	Perbandingan (Comparison): Menggunakan diagram batang (Barplot) untuk membandingkan akumulasi Peak Players dari tahun ke tahun guna melihat tahun mana yang mencatat aktivitas pemain tertinggi.
 •	Komposisi (Composition): Menggunakan diagram lingkaran (Pie Chart) untuk memetakan porsi persentase dari tiga tahun dengan kontribusi jumlah pemain paling besar.
