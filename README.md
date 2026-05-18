@@ -24,7 +24,7 @@ C. Analisis Data Eksploratif (EDA) Tahapan eksplorasi data divisualisasikan meng
 •	Komposisi (Composition): Menggunakan diagram lingkaran (Pie Chart) untuk memetakan porsi persentase dari tiga tahun dengan kontribusi jumlah pemain paling besar.
 •	Distribusi (Distribution): Menggunakan diagram Histogram untuk melihat pola persebaran jumlah pemain setiap bulannya, yang berguna untuk mengetahui apakah game ini lebih dominan berada di fase sepi atau fase ramai.
 
-EDA.
+Exploratory Data Analysis (EDA)
 COMPARISON / PERBANDINGAN
 <img width="841" height="566" alt="{522B7488-17BE-4B40-81DA-B9B04CAD71C0}" src="https://github.com/user-attachments/assets/552a78ce-6882-4261-940b-f60da513bff4" />
 
@@ -36,6 +36,3 @@ DISTRIBUTION / DISTRIBUSI
 
 RELATIONSHIP / HUBUNGAN
 <img width="623" height="519" alt="{0B7126B5-46F9-4CFA-B97D-FC52B655D847}" src="https://github.com/user-attachments/assets/e1c34d4a-cc31-4863-a542-07bd7cf7c3a3" />
-
-
-
