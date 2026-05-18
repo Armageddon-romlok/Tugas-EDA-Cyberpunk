@@ -8,8 +8,8 @@ Menariknya, game ini perlahan berhasil bangkit kembali berkat perbaikan sistem y
 Melalui analisis ini, kita dapat melihat secara lebih jelas bagaimana siklus hidup game tersebut, membandingkan tren keramaian pemain dari tahun ke tahun, serta memahami pola distribusi dan korelasi waktu terhadap naik-turunnya jumlah pemain.
  
 Tahapan Proses yang Dilakukan
-
 Proses penyelesaian analisis data ini dikerjakan secara berurutan dan dibagi ke dalam empat tahapan utama, yaitu:
+
 A. Pengumpulan Data Data yang digunakan dalam analisis ini diambil dari dataset publik di Kaggle yang berjudul CYBERPUNK 2077 STEAM Chart - Players Over The Year.csv. Dataset ini berisi rekaman riwayat bulan, tahun, dan angka pemain tertinggi bulanan di platform Steam.
 
 B. Persiapan dan Pembersihan Data Sebelum divisualisasikan, data mentah harus diolah terlebih dahulu menggunakan library Pandas pada bahasa pemrograman Python. Beberapa penyesuaian yang dilakukan meliputi:
