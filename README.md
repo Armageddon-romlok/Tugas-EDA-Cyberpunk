@@ -6,8 +6,10 @@ Latar Belakang
 Dalam industri video game, khususnya pada proyek berskala besar (AAA), jumlah pemain aktif sangat dipengaruhi oleh momentum rilis, stabilitas performa, dan pembaruan konten. Salah satu contoh kasus yang paling disorot dalam beberapa tahun terakhir adalah Cyberpunk 2077 karya CD Projekt Red. Saat diluncurkan pada akhir tahun 2020, game ini berhasil mencatat rekor jumlah pemain yang sangat tinggi. Namun, tren tersebut sempat merosot tajam akibat banyaknya kendala teknis yang dialami pemain di awal rilis.
 Menariknya, game ini perlahan berhasil bangkit kembali berkat perbaikan sistem yang konsisten secara berkala, perilisan ekspansi cerita (Phantom Liberty), serta dorongan popularitas dari adaptasi serial animenya. Oleh karena itu, laporan ini disusun untuk melakukan Exploratory Data Analysis (EDA) terhadap fluktuasi jumlah pemain aktif tertinggi (Peak Players) bulanan Cyberpunk 2077 di platform Steam.
 Melalui analisis ini, kita dapat melihat secara lebih jelas bagaimana siklus hidup game tersebut, membandingkan tren keramaian pemain dari tahun ke tahun, serta memahami pola distribusi dan korelasi waktu terhadap naik-turunnya jumlah pemain.
- 
+
+ 
 Tahapan Proses yang Dilakukan
+
 Proses penyelesaian analisis data ini dikerjakan secara berurutan dan dibagi ke dalam empat tahapan utama, yaitu:
 
 A. Pengumpulan Data Data yang digunakan dalam analisis ini diambil dari dataset publik di Kaggle yang berjudul CYBERPUNK 2077 STEAM Chart - Players Over The Year.csv. Dataset ini berisi rekaman riwayat bulan, tahun, dan angka pemain tertinggi bulanan di platform Steam.
